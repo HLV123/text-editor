@@ -2,6 +2,11 @@
 
 Một trình soạn thảo văn bản mạnh mẽ và hiện đại được phát triển bằng Python với giao diện Tkinter.
 
+<img width="746" height="745" alt="Image" src="https://github.com/user-attachments/assets/5d3cb2ed-9989-4ee4-8601-0b0f7c34ede8" />
+
+
+<img width="1914" height="1079" alt="Image" src="https://github.com/user-attachments/assets/cb5739a3-6003-4cf0-8b0c-c63b6f1112fc" />
+
 ## Tính năng chính
 
 ### 📝 Chỉnh sửa văn bản
